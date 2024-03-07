@@ -22,7 +22,7 @@ Welcome to the "Raydium Liquidity Pool Creator & Trader" script, an innovative t
 This tool is designed for legitimate purposes only and should not be used for illegal activities. 
 
 ## Contact
-For further inquiries or support, please reach out to me on Telegram: (@xenexdev)[https://t.me/xenexdev]
+For further inquiries or support, please reach out to me on Telegram: [@xenexdev](https://t.me/xenexdev)
 
 ## Get Started
 Embark on your automated trading journey today with our script and unlock the potential of liquidity pool trading on Raydium like never before.
